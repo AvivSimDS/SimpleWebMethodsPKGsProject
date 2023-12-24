@@ -7,3 +7,8 @@ packages:
   gitUrl: https://github.com/AvivSimDS/SimpleWebMethodsPKGsProject
   gitUsername: AvivSimDS
   gitBranch: main
+services:
+- serviceName: project.simplewebmethodspkgs.integrations:FullName2NameRecord
+  packages:
+  - name: SimpleWebMethodsPKGsProject
+    version: "1.0"
