@@ -138,12 +138,12 @@
   <value name="retry_interval">0</value>
   <record name="node_hints" javaclass="com.wm.util.Values">
     <value name="lastModifiedBy">emea02user</value>
-    <value name="lastModifiedDate">1703415543502</value>
+    <value name="lastModifiedDate">1703416674794</value>
     <record name="edgeServer" javaclass="com.wm.util.Values">
-      <value name="id">9e5c25b304314be18745dc26d83107ee</value>
+      <value name="id">cfafebd5d07541738be9c556911b6bcf</value>
       <value name="group">default</value>
-      <value name="name">emea_user02_Israel_EDGE_01</value>
-      <value name="executionPlaneType">onprem</value>
+      <value name="name">Cloud Runtime</value>
+      <value name="executionPlaneType">cloud</value>
     </record>
     <value name="displayName">FullName2NameRecord</value>
     <value name="description"></value>
